@@ -1,0 +1,29 @@
+# Core dependencies
+pydantic>=2.0.0
+numpy>=1.24.0
+networkx>=3.0
+
+# Optional dependencies for advanced features
+# Uncomment if needed:
+
+# For vector embeddings
+# sentence-transformers>=2.2.0
+# torch>=2.0.0
+
+# For BM25 retrieval
+# rank-bm25>=0.2.2
+
+# For distributed caching
+# redis>=4.5.0
+
+# For async operations
+# aiohttp>=3.8.0
+
+# For visualization
+# matplotlib>=3.7.0
+# graphviz>=0.20.0
+
+# For testing
+pytest>=7.3.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
